@@ -1,7 +1,7 @@
 {
-  "name": "vue3template",
+  "name": "chat",
   "version": "1.0.0",
-  "author": "Rodolfo Romamn <rromanv@gmail.com>",
+  "author": "Nicholas Zamora <nickzmra@gmail.com>",
   "license": "ISC",
   "scripts": {
     "dev": "vite",
