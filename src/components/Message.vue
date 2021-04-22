@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto flex bg-indigo-500 my-4 rounded-full">
+    <div class="container mx-auto flex bg-blueGray-500 bg-opacity-50 my-4 rounded-full">
         <div>
             <mdi:account class="bg-white rounded-full h-12 w-12 px-1"/>
         </div>
